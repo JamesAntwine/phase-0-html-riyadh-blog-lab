@@ -36,7 +36,7 @@ IMAGE 2 FILE
 
 IMAGE 2 ALT TEXT
 
-`Riyadh Garden`
+`Riyadh Gardens`
 
 PARAGRAPH 3
 
